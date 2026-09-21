@@ -1,0 +1,6 @@
+:HL["/nng-homepage-concept/_next/static/chunks/1lay61hnwmk9u.css","style"]
+:HL["/nng-homepage-concept/_next/static/media/hind_latin_400_normal-s.p.2vgre8w9i81xw.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nng-homepage-concept/_next/static/media/hind_latin_600_normal-s.p.27cx41ml4zrex.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nng-homepage-concept/_next/static/media/tiro_devanagari_hindi_latin_400_italic-s.p.2o8yoec3cek77.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/nng-homepage-concept/_next/static/media/tiro_devanagari_hindi_latin_400_normal-s.p.3_0o-s2yc_96-.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"contact","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"d_7NL-Mjcjj4oxhGtuHPm"}
