@@ -1,7 +1,7 @@
-:HL["/nng-homepage-concept/_next/static/chunks/2ifw955-t319m.css","style"]
+:HL["/nng-homepage-concept/_next/static/chunks/0sn1pb9h5ap8d.css","style"]
 :HL["/nng-homepage-concept/_next/static/media/dm_sans_regular-s.p.3nok11a2llwqo.woff","font",{"crossOrigin":"","type":"font/woff"}]
 :HL["/nng-homepage-concept/_next/static/media/dm_sans_semibold-s.p.3c8fxlnt6z421.woff","font",{"crossOrigin":"","type":"font/woff"}]
 :HL["/nng-homepage-concept/_next/static/media/playfair_italic-s.p.3xiz7x0ute6dm.woff","font",{"crossOrigin":"","type":"font/woff"}]
 :HL["/nng-homepage-concept/_next/static/media/playfair_regular-s.p.23dl8bl7-_mlz.woff","font",{"crossOrigin":"","type":"font/woff"}]
 :HL["/nng-homepage-concept/images/narayani-cover-portrait-480.webp","image",{"type":"image/webp","fetchPriority":"high","imageSrcSet":"/nng-homepage-concept/images/narayani-cover-portrait-480.webp 480w, /nng-homepage-concept/images/narayani-cover-portrait-684.webp 684w","imageSizes":"(max-width: 680px) 70vw, 32vw"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"about","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"e61KNg2z3fzyRkNKI3Osj"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"about","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"dQr9sRcjXxFhDT2eb3wjt"}
