@@ -1,9 +1,11 @@
-# Transformation with NNG: homepage design preview
+# Transformation with NNG: website design preview
 
-A design preview of the homepage, shared for review. It is not the live site and not the final product.
+A design preview of the website, shared for review. It is not the live site and not the final product.
 
-Open it: https://deoxysaryan.github.io/nng-homepage-concept/
+Open it: https://deoxysaryan.github.io/nng-homepage-concept/ (Home, Services, Personalised Hand Holding Program, About and Contact)
 
-Full-length PDFs: `downloads/NNG_Homepage_mobile.pdf` (390 px wide) and `downloads/NNG_Homepage_desktop.pdf` (1440 px wide).
+Full-length PDFs of every page, at phone (390 px) and desktop (1440 px) width, are in `downloads/`.
 
-Testimonials, client films, prices and the book line are marked placeholders until they are confirmed. Search engines are asked not to index this copy.
+Client quotes and films are shown with consent, with names shortened until spellings are confirmed; the films play from Google Drive. No prices are shown. The WhatsApp button opens WhatsApp without a number attached, and the call-back form sends nothing. Search engines are asked not to index this copy.
+
+Updated 23 September 2026.
