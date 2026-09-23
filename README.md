@@ -11,3 +11,5 @@ Client quotes and films are shown with consent, with names shortened until spell
 Second edition, 23 September 2026: the template patterns are gone, and her practice is drawn into the background (the nine grahas around her portrait, the kundli, the vastu grid).
 
 Audited the same night: every image checked on every page, side stripes and hard-coded colours removed, a pause control added to the orbit, backdrops taken off phone text, and the stylesheet cleaned. The pages test clean for accessibility (axe, WCAG 2.1 AA) at phone and desktop width and on twelve screen sizes.
+
+Third pass, 24 September 2026: fewer words, the button before the picture on phones, a contact page that answers before it asks, her own sentences opening sections, buttons that press down onto a gold plate, every drawing in quiet motion (off for reduced motion), and the page's scripts loading a moment after the page so it reads and links at once on a slow connection.
